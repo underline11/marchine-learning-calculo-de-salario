@@ -1,0 +1,19 @@
+# Cálculo de Salário
+
+Este projeto é uma aplicação Python para calcular salários de funcionários com base em diferentes parâmetros. A aplicação permite a entrada de dados relacionados a horas trabalhadas, taxa horária e deduções, e calcula o salário final.
+
+## Funcionalidades
+
+- Cálculo do salário bruto com base nas horas trabalhadas e taxa horária.
+- Aplicação de deduções para calcular o salário líquido.
+- Opção de visualizar o resumo do cálculo.
+
+## Tecnologias Utilizadas
+
+- Python 3.x
+
+## Como Executar
+
+1. Clone o repositório:
+   
+   git clone https://github.com/seu-usuario/calculo-salario.git
