@@ -1,0 +1,28 @@
+# Arquivos e diretórios de compilação e temporários
+*.pyc
+*.pyo
+__pycache__/
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do sistema
+*.swp
+*.swo
+
+# Arquivos específicos do projeto
+*.env
+*.sqlite3
